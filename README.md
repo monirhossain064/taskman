@@ -31,7 +31,4 @@
  - [x] Default images for non picture tasks
  - [x] Edit and delete tasks
  - [x] Search tasks
- ## External Libraries
- - Material
- - GreenDAO
 
